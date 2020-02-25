@@ -24,8 +24,8 @@
 extern "C" {
 #endif
 #include <avformat.h>
-#include <libavutil/imgutils.h>
-#include <libswscale/swscale.h>
+#include <imgutils.h>
+#include <swscale.h>
 #ifdef __cplusplus
 };
 #endif
