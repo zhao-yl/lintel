@@ -23,7 +23,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-#include <libavformat/avformat.h>
+#include <avformat.h>
 #include <libavutil/imgutils.h>
 #include <libswscale/swscale.h>
 #ifdef __cplusplus
